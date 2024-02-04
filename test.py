@@ -1,1 +1,2 @@
-print(123)
+def print_123():
+    print(123)
